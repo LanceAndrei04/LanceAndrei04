@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Lance Andrei 👋</h1>
 <p align="center">Computer Science Student | Front-End Developer | UI/UX Enthusiast</p>
 
----
-
 # 🌟 About Me
 
 I'm a Computer Science student with a passion for creating thoughtful and user-focused front-end experiences. From Android apps to academic visualizers, I enjoy solving real-world problems with clean UI design and maintainable code.
